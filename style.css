@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'comic sans', 'Arial', 'sans serif';
+}
+
+h1 {
+    font-size: 42px;
+    font-family: 'comic sans', 'Arial', 'sans serif';
+}
+
+li {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+a:link {
+    color: yellow;
+    font-size: 18px;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:hover {
+    color: rgb(235, 235, 220);
+    font-weight: 700;
+
+a:active {
+    color: yellow;
+}
+
